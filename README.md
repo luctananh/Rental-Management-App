@@ -86,13 +86,13 @@ Hôm nay ăn gì?/
    Mở tệp TTCS.sln bằng Visual Studio 2019 hoặc phiên bản mới hơn.
    ```
    
-2.**Đảm bảo rằng cơ sở dữ liệu TTCS.mdf được gắn kết trong SQL Server.**
+   2.**Đảm bảo rằng cơ sở dữ liệu TTCS.mdf được gắn kết trong SQL Server.**
 
-3.**Xây dựng và chạy ứng dụng:**
+   3.**Xây dựng và chạy ứng dụng:**
 
-4.**Chọn cấu hình**
-    Debug hoặc Release.
-    Nhấn F5 để chạy ứng dụng.
+   4.**Chọn cấu hình**
+       Debug hoặc Release.
+       Nhấn F5 để chạy ứng dụng.
     
 ## Cơ sở dữ liệu
 Cơ sở dữ liệu TTCS.mdf chứa các bảng chính:
