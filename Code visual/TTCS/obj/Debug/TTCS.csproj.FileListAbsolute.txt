@@ -1,0 +1,17 @@
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\bin\Debug\TTCS.exe.config
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\bin\Debug\TTCS.exe
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\bin\Debug\TTCS.pdb
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.csprojAssemblyReference.cache
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.Properties.Resources.resources
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.csproj.GenerateResource.cache
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.csproj.CoreCompileInputs.cache
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.exe
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.pdb
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.home.resources
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.Phong.resources
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.csproj.CopyComplete
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.Login.resources
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.KhachHang.resources
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.HopDong.resources
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.HoaDon.resources
+C:\Users\Viet-Nguyen\source\repos\TTCS\TTCS\obj\Debug\TTCS.Ac.resources
