@@ -43,8 +43,7 @@ Workspace
 Collecting workspace information
 
 Dưới đây là nội dung chi tiết cho file README.md của ứng dụng "Hôm nay ăn gì?":
-```bash
-Hôm nay ăn gì?/ 
+```bash 
 ├── README.md 
 ├── Code visual/ 
 │ ├── TTCS.sln 
