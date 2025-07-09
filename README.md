@@ -1,6 +1,6 @@
-# food-ordering-app
 ## Giới thiệu
-"Hôm nay ăn gì?" là một ứng dụng quản lý được xây dựng trên nền tảng Windows Forms bằng ngôn ngữ C# và .NET Framework 4.7.2. Ứng dụng hỗ trợ quản lý các chức năng như khách hàng, phòng, hợp đồng, hóa đơn, và đăng nhập. Đây là một công cụ hữu ích cho các nhà quản lý trong việc theo dõi và xử lý thông tin một cách hiệu quả.
+
+Đây là ứng dụng quản lý nhà trọ (phòng trọ) được xây dựng bằng Windows Forms với ngôn ngữ lập trình C# trên nền tảng .NET Framework 4.7.2. Ứng dụng hỗ trợ các chức năng quản lý khách hàng, phòng, hợp đồng, hóa đơn và tài khoản, giúp chủ nhà trọ theo dõi, cập nhật, xử lý thông tin nhanh chóng – chính xác.
 
 ## Tính năng chính
 1. **Đăng nhập và quản lý tài khoản**:
